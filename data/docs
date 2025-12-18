@@ -1,1 +1,19 @@
-
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAXI-DC-MARKET Documentation</title>
+</head>
+<body>
+    <h1>Bienvenue sur MAXI-DC-MARKET</h1>
+    <p>Ceci est une page HTML sur GitHub.</p>
+    
+    <h2>Contenu du projet :</h2>
+    <ul>
+        <li><a href="../data/">Données (CSV)</a></li>
+        <li><a href="../notebooks/">Notebooks d'analyse</a></li>
+        <li><a href="../src/">Code source</a></li>
+    </ul>
+</body>
+</html>
